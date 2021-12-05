@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ethicaldevils",
+  "private_key_id": "98c764e2cdbb271aad84cc4693cb38fc33c3cec7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfENJF342mIVke\nGXH1RMi15DJxsC2LYGC0dUk4tYgLcGW3urduSiJWbBCm/XiNLipSlLzXQlhgDbuw\ncGsddQM9nDag3nHDFD0Dyipncd6c2nB2YRbkJUg4rUOW90XO+u1GU4PAsJ5R/ZfI\n0QrGC143yb7w6KP4TkPeAPz+qcKaIhPfpsqlC/4BgVu/zWRXPymeY9wtPZ9CmaxL\nrxr80+3QPTyOddXe17Hqx76FyS1HBV8Itad6mDm2h+TWoJGzp2ZSwxyv9hR9eltS\njtXBi0oZ+cT5DdNrreIdc3KjvL81pugeIDKY9TG8sKdJ6qSueggP84kEPzeBB1WN\nekQSYAenAgMBAAECggEAM9786xtFKm1KjfW3Q0fcefBCAO/2UjKqJn7u00bjZ/ON\nwBXr9lPHkc4ougQDWWq6E3b8g+fXQO+JiraGP7NmTKOR7vDLQVXqtb8qB9TKxvS2\n4uuzVs/PluftmB/nzGDomlvmpaIS5uLfKfX9YOrZHTE1ioMa4YDIQe+pkPRUCQXb\nOckPPTU7MCn3+BAL3RwM4bTCK95AD3ibTf5+eBUQfJicx1EBwq1iI61iZBXkmQFX\ngc9j8rIFk/DPEKIXgSeJxN2pnHXqBlWr6UgUrMuGRd1sY6dUXv/qQhdv08fKAtBC\n967/FS/RmJ5BFm5QYchwTxTKSqzXy3Roq2eaeRwMnQKBgQDNn4alR4ge+Mw/hqzK\nS4GFTr0u9qFphDABCjTBlApEo/Z2K8uILIb4/8nY63xlW6PwN3YIZpJI0R7ccXwo\nfqAAiFsG7ReeE0kw6FS/wVDJ9WWNyGalhGcMcm/f8y8M0GzopUmMC9iQvwkiKTJy\nBYFXuT1vleVsGbmUAIEgXHKEawKBgQDGCUKjURZ0SEIEwDKQglFTYwfdv7xeBOL9\nmGKGOepKJSFLpdmBDvY7gGf7+Rtd/PpTww+mbpl6TwnmIAYlPN/VVItVDGrHmkJ7\n1v+W0F2iBQTiChp3fWUKoA0dareQgDYEhxNQF/yPEM9VlrEPl3R2WB+k376I4IGm\n1zgWnZM4tQKBgHXV5r6O6KX/JGV/U0Q20wnHHslsEwI5+5yM8cDBisTdRZ9g56mp\nAsxtIYpLISWgx6kgz2ZvCYPrO4lPC7zVG/JSMgAdHPy8xqPdcLvXF+o01DbVUmWm\nI7vRVOV9IkhwpQkJt8UnALuqjpxiCYOoPgA8qsVonGo/r8buJxGZiRLzAoGAeeKZ\nMQtnVopil6nzdR3AECKTZNfth7BaRNrVSOe8W4YeyAB7rgMXaefOGDdpsJ9TMtqL\nd1P7AlxDK2/qWGDvIs22M9JApjk7Uh0xkhEMj/um1biCMajr125KpCBaeoVuubqp\nGFKrDyK5eWQV9hKxi2URlNhg3L3RDm7IBqNVSUECgYEAg+ig7b10V/E4u0K3HNmw\nJ97fgzJ70VBcIPVJGwFco1QeM+Eh3ymUttv+lb+g6VFE+x7i7OW61ceGcpSMsduQ\nRlH/xTbImeXr3R9Yqg9e4TtTj477b/VyX4IOk1LvdfbdOgj56FNCEfDgBGJDBQgP\noCJll7V/4+qZGW6vi4n94DM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-wavs3cfdsyjour3bhziw41r1xo@ethicaldevils.iam.gserviceaccount.com",
+  "client_id": "105152569370093927973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-wavs3cfdsyjour3bhziw41r1xo%40ethicaldevils.iam.gserviceaccount.com"
+}
